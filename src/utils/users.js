@@ -16,13 +16,20 @@ const addUser = ({ id, username, room }) => {
     const existingUser = users.find((user) => {
         return user.room === room && user.username === username
     })
-
+    //validator email format @enim.ac.ma
+    var regx= /^([a-zA-Z]+)@(enim.ac.ma)$/;
+    if (regx.test(!username)){
+        return{
+            error:'email not valid !'
+        }
+    }
     // Validate username
     if (existingUser) {
         return {
             error: 'Username is in use!'
         }
     }
+
 
     // Store user
     const user = { id, username, room }
