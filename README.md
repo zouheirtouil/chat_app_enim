@@ -14,8 +14,8 @@ Pour le Back-end : Node.js, Socket.IO, NPM, Express Server
                                     ![myimage-alt-tag](https://github.com/zouheirtouil/chat_app_enim/blob/master/chat3.PNG)
 
 
-Voici l'interface de l'application :  :)
-                               ![myimage-alt-tag](https://github.com/zouheirtouil/chat_app_enim/blob/master/chat1.PNG)
-                                ![myimage-alt-tag](https://github.com/zouheirtouil/chat_app_enim/blob/master/chat2.PNG)
+
+                                    ![myimage-alt-tag](https://github.com/zouheirtouil/chat_app_enim/blob/master/chat1.PNG)
+                                    ![myimage-alt-tag](https://github.com/zouheirtouil/chat_app_enim/blob/master/chat2.PNG)
 
 
