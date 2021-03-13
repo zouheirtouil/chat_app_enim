@@ -11,6 +11,8 @@ Pour le front-end : HTML5, CSS3, JAVASCRIPT, BOOTSTRAP4
 
 Pour le Back-end : Node.js, Socket.IO, NPM, Express Server
 
+![myimage-alt-tag](https://github.com/zouheirtouil/chat_app_enim/blob/master/chat3.PNG)
 ![myimage-alt-tag](https://github.com/zouheirtouil/chat_app_enim/blob/master/chat1.PNG)
+![myimage-alt-tag](https://github.com/zouheirtouil/chat_app_enim/blob/master/chat2.PNG)
 
 
