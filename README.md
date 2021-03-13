@@ -11,6 +11,6 @@ Pour le front-end : HTML5, CSS3, JAVASCRIPT, BOOTSTRAP4
 
 Pour le Back-end : Node.js, Socket.IO, NPM, Express Server
 
-![myimage-alt-tag](url-to-image)
+![myimage-alt-tag](https://github.com/zouheirtouil/chat_app_enim/blob/master/chat1.PNG)
 
 
